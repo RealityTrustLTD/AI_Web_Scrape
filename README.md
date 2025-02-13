@@ -126,7 +126,7 @@ A Python-based web scraping, data extraction, and analysis workflow. This projec
 ## Usage
 
 1. **Run the Script**:
-    python test2.py
+    python app.py
 
    This starts a Flask server on `http://localhost:8080/`.
 
